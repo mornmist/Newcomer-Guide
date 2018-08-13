@@ -10,7 +10,7 @@
 
 ### 1.2 即时通讯
 
-我们的即时通讯工具使用[企业微信](https://work.weixin.qq.com/)，可联系管理员@daijiale，提供你的微信号，我们会按照部门添加，对于选用企业微信的几点考虑：
+我们的即时通讯工具使用[微信](https://weixin.qq.com/)，可联系管理员@daijiale，提供你的微信号，我们会按照部门添加，对于选用企业微信的几点考虑：
 
 - 微信聊天记录转发（其实真正看中的就这一个功能）
 - 自定义企业邮箱
@@ -64,15 +64,10 @@
 
 ### 后端
 
-- [php](http://www.w3school.com.cn/php/)
+- [go](http://www.runoob.com/go/go-tutorial.html)
 - [nodejs](https://github.com/langker/newcomer/blob/master/Basic/node-and-tools.md)
-- [Python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
-- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-- [Express](http://expressjs.com/)
-- [Flask](http://flask.pocoo.org/)
-- [Django](http://djangobook.py3k.cn/2.0/)
 
-若有其他资料需要,请联系管理员 [@langker](https://github.com/langker), [@Chion82](https://github.com/Chion82)
+若有其他资料需要,请联系管理员 [@daijiale](https://github.com/daijiale), [@xux1217](https://github.com/xux1217)
 
 ### 设计
 
@@ -85,7 +80,7 @@
 
 一般来说我们招新是分为三部分的:一面，二面，一周的技术考核。若能看到本仓库，便是顺利通过一面二面，进入到最后的试用期考核阶段了。
 
-本阶段要求大家自行组队,利用一个月的时间把一个Feature（一般Leader根据你的情况指派）做出来并在我们团队内部举办一个小型的Feature发布会,我们不要求这个Feature做的多精美,功能多丰富,逼格多高,完成度多大,但是我们希望在一个周的时间里看到你的坚持你的努力你的能力,看到你在掌握了一系列新技能后的欣喜若狂的脸色,更看到你对互联网的热爱~我们会根据一个月里你的综合表现(包括但不仅仅局限于技术)来决定是否让你加入,在项目过程中如果遇到问题可以随时跟招新负责人沟通,么么哒~
+本阶段要求大家自行组队,利用一周的时间把一个Feature（一般Leader根据你的情况指派）做出来并在我们团队内部举办一个小型的Feature发布会,我们不要求这个Feature做的多精美,功能多丰富,逼格多高,完成度多大,但是我们希望在一个周的时间里看到你的坚持你的努力你的能力,看到你在掌握了一系列新技能后的欣喜若狂的脸色,更看到你对互联网的热爱~我们会根据一周里你的综合表现(包括但不仅仅局限于技术)来决定是否让你加入,在项目过程中如果遇到问题可以随时跟招新负责人沟通,么么哒~
 
 ## 对本仓库贡献
 

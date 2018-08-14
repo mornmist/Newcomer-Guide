@@ -60,7 +60,13 @@
 - 学习LESS, SASS等CSS预编译语言
 - 学习angular, React, vue等前端MVC模型框架
 - 深入学习前端组件化模块化，学习CoffeeScript, ES6, JSX等语言，学习babel, webpack等工具
+- [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)
+- [Element Vue 组件库](http://element-cn.eleme.io/#/zh-CN)饿了妈出品
 - 若有其他资料需要,请联系管理员 @xux1217
+
+### 微信小程序
+
+[awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
 ### 后端
 
@@ -75,6 +81,7 @@
 - [WEB安全色](http://www.bootcss.com/p/websafecolors/)
 - [WEB 设计规范](http://blog.csdn.net/m13666368773/article/details/8020928)
 - [安卓设计规范](http://www.visionunion.com/article.jsp?code=201201180018)
+- [awesome-design](https://github.com/gztchan/awesome-design)
 
 ## 四、破冰会 | 试用考核
 

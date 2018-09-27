@@ -83,6 +83,10 @@
 - [安卓设计规范](http://www.visionunion.com/article.jsp?code=201201180018)
 - [awesome-design](https://github.com/gztchan/awesome-design)
 
+如果觉得以上资料太旧、或者未涉及到你感兴趣的领域，可以移步：[mornmist/be-a-professional-programmer](https://github.com/mornmist/be-a-professional-programmer)
+
+也欢迎提交PR或者issue，Push管理员 [@daijiale](https://github.com/daijiale), [@xux1217](https://github.com/xux1217)更新！！！
+
 ## 四、破冰会 | 试用考核
 
 一般来说我们招新是分为三部分的:一面，二面，一周的技术考核。若能看到本仓库，便是顺利通过一面二面，进入到最后的试用期考核阶段了。

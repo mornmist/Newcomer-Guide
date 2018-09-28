@@ -2,30 +2,67 @@
 
 本仓库设计为刚加入MornMist同学的专用指南，旨在为大家快速融入MornMist团队，希望大家根据自己的岗位,迅速掌握相关方面的知识，了解团队的基本信息和文化。我们也很欢迎你根据指南内容提出一些自己的建议，觉得哪里不足，哪里需要补充，可以随时提交issue上报！！！对于新人，我们也会准备专门的`破冰会`（将在下文中提到），来帮助你快速和我们打成一片。
 
-## 一、协作工具准备
+## 一、MornMist Lab 组织架构
 
-### 1.1 工作管理
+Lab主要分为技术学术研究(Research)和产品工程研发（Develop）两个方向，Research团队大部分由外部各方向领域的专家顾问团所组成，将输出与雾计算和雾存储全生态领域的前沿科技和报告，Develop团队大部分由公司内部工程师和产品经理构成，将借鉴Research团队的研究成果，服务于公司基础业务和产品线工程化落地。
+
+### Research团队
+
+ - 职责：新技术、新模式的研究
+
+ - 产出：文章、讲座、课程、学术论文
+
+ - 专家顾问团方向：
+    - 技术顾问
+      - 分布式存储：@dongtianyi
+      - 分布式计算：@linxin
+      - 网络通讯协议：@zhaoxin
+      - 数据分析：@xuhuan
+      - 区块链栈：@xuxiaodi
+      - 机器学习：@pengjingtian
+    - 产品顾问
+      - 云服务：
+      - 增长黑客：@huangzilong
+
+ - 研究成果：
+    - [IPFS-For-Chinese](https://github.com/mornmist/IPFS-For-Chinese)
+
+### Develop团队
+
+ - 职责：软件产品开发、工程化实践落地
+
+ - 产出：基础业务、软件产品
+
+ - 小团队划分：
+  - 产品组：@mengjing
+  - 前端组：@daijiale
+  - 后端组：@xuxiao @lanyuhang
+  - 设计组：Outsourcing service
+ 
+- 产品线：
+  - [mornmist-website](https://github.com/mornmist/mornmist-website):@daijiale
+  - [S-GreyBox]():@daijiale
+
+## 二、协作工具准备
+
+### 2.1 工作管理
 
 我们一般通过 [Slack]()来进行日程管理和绩效考核,请以用自己的常用邮箱注册`slack`空间：`mornmist.slack.com`，并通知 `workspace`管理员@daijiale 或 @xuxiao，添加进部门`Channel`。
 
-### 1.2 即时通讯
+### 2.2 即时通讯
 
-我们的即时通讯工具使用[微信](https://weixin.qq.com/)，可联系管理员@daijiale，提供你的微信号，我们会按照部门添加，对于选用企业微信的几点考虑：
+ - 我们的即时通讯工具使用[微信](https://weixin.qq.com/)
 
-- 微信聊天记录转发（其实真正看中的就这一个功能）
-- 自定义企业邮箱
-- 视频会议
-- 企业支付
-- 打卡（绝对弹性，别慌）
-- 审批（主要是报销、事假）
+ - 我们的内部协作工具使用的是[slack](http://slack.com)，请注册账号，并联系管理员@xuxiao，我们将拉你进Channel
 
-### 1.3 产品研发
+ - 我们的外部协作工具使用的是[github](https://github.com/mornmist)，请注册账号，并联系管理员@daijiale，我们将拉你进Org
+
+### 2.3 产品研发
 
 - 我们内部的产品研发流程严格遵循[Scrum敏捷开发](https://baike.baidu.com/item/Scrum/1698901?fr=aladdin)的方式，协作工具将托管在`Slack-trello`上进行。
 
-- 技术协作工具将托管在<https://github.com/mornmist>上进行，`Slack-github`同步跟进。
 
-## 二、基础知识掌握
+## 三、基础知识掌握
 
 - [翻墙](http://www.appifan.com/jc/201209/35517.html)(@xux1217 补充一下解决方案，新人这件事不做，很难推进其他工作)
 - [Git 和 GitHub 的使用](https://github.com/langker/newcomer/blob/master/Basic/git-and-github.md)
@@ -43,7 +80,7 @@
   - [知乎](http://www.zhihu.com)
   - [翻墙神器ss](https://github.com/shadowsocks/shadowsocks)
 
-## 三、产品研发知识掌握
+## 四、产品研发知识掌握
 
 ### 前端
 
@@ -92,3 +129,11 @@
 ## 对本仓库贡献
 
 请参考 GITHUB 流程, PR 后在 COMMENT 中艾特当前管理员(现在是@daijiale/@xux1217),通过审核后即可。
+
+
+
+## MornMist Lab Repos | 其他仓库说明
+
+- [Newcomer-Guide|晨雾Lab团队新人指南](https://github.com/mornmist/Newcomer-Guide)
+- [mornmist-website|基于Vue框架编写的晨雾官网](https://github.com/mornmist/mornmist-website)
+- [IPFS-For-Chinese | 晨雾出品：全网最全的IPFS中文技术内容集合](https://github.com/mornmist/IPFS-For-Chinese)

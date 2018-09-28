@@ -25,7 +25,7 @@ Lab主要分为技术学术研究(Research)和产品工程研发（Develop）两
       - 增长黑客：@huangzilong
 
  - 研究成果：
-    - [IPFS-For-Chinese](https://github.com/mornmist/IPFS-For-Chinese)
+    - [IPFS-For-Chinese|晨雾出品：全网最全的IPFS中文技术内容集合](https://github.com/mornmist/IPFS-For-Chinese)
 
 ### Develop团队
 
@@ -34,10 +34,10 @@ Lab主要分为技术学术研究(Research)和产品工程研发（Develop）两
  - 产出：基础业务、软件产品
 
  - 小团队划分：
-  - 产品组：@mengjing
-  - 前端组：@daijiale
-  - 后端组：@xuxiao @lanyuhang
-  - 设计组：Outsourcing service
+   - 产品组：@mengjing
+   - 前端组：@daijiale
+   - 后端组：@xuxiao @lanyuhang
+   - 设计组：Outsourcing service
  
 - 产品线：
   - [mornmist-website](https://github.com/mornmist/mornmist-website):@daijiale

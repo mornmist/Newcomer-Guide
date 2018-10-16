@@ -15,11 +15,11 @@ Lab主要分为技术学术研究(Research)和产品工程研发（Develop）两
  - 专家顾问团方向：
     - 技术顾问
       - 分布式存储：@dongtianyi
-      - 分布式计算：@linxin
+      - 分布式计算：
       - 网络通讯协议：@zhaoxin
       - 数据分析：@xuhuan
       - 区块链栈：@xuxiaodi
-      - 机器学习：@pengjingtian
+      - 机器学习：
     - 产品顾问
       - 云服务：
       - 增长黑客：@huangzilong

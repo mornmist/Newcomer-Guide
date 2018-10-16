@@ -124,7 +124,7 @@ Lab主要分为技术学术研究(Research)和产品工程研发（Develop）两
 
 也欢迎提交PR或者issue，Push管理员 [@daijiale](https://github.com/daijiale), [@xux1217](https://github.com/xux1217)更新！！！
 
-## 四、破冰会 | 试用考核
+## 五、破冰会 | 试用考核
 
 一般来说我们招新是分为三部分的:一面，二面，一周的技术考核。若能看到本仓库，便是顺利通过一面二面，进入到最后的试用期考核阶段了。
 
